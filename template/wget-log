@@ -1,0 +1,119 @@
+Location: https://themes.3rdwavemedia.com/bootstrap-templates/product/appify-bootstrap-4-admin-template-for-app-developers/ [following]
+--2020-06-06 19:19:04--  https://themes.3rdwavemedia.com/bootstrap-templates/product/appify-bootstrap-4-admin-template-for-app-developers/
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘themes.3rdwavemedia.com/index.html?p=1890’
+
+
+
+2020-06-06 19:19:06 (799 KB/s) - ‘themes.3rdwavemedia.com/index.html?p=1890’ saved [56967]
+
+--2020-06-06 19:19:06--  https://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemes.3rdwavemedia.com%2Fbootstrap-templates%2Fproduct%2Fappify-bootstrap-4-admin-template-for-app-developers%2F
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.3rdwavemedia.com%2Fbootstrap-templates%2Fproduct%2Fappify-bootstrap-4-admin-template-for-app-developers%2F’
+
+
+
+2020-06-06 19:19:07 (210 MB/s) - ‘themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.3rdwavemedia.com%2Fbootstrap-templates%2Fproduct%2Fappify-bootstrap-4-admin-template-for-app-developers%2F’ saved [3013]
+
+--2020-06-06 19:19:07--  https://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemes.3rdwavemedia.com%2Fbootstrap-templates%2Fproduct%2Fappify-bootstrap-4-admin-template-for-app-developers%2F&format=xml
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/xml]
+Saving to: ‘themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.3rdwavemedia.com%2Fbootstrap-templates%2Fproduct%2Fappify-bootstrap-4-admin-template-for-app-developers%2F&format=xml’
+
+     0K ...                                                     154M=0s
+
+2020-06-06 20:42:56 (154 MB/s) - ‘themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.3rdwavemedia.com%2Fbootstrap-templates%2Fproduct%2Fappify-bootstrap-4-admin-template-for-app-developers%2F&format=xml’ saved [3159]
+
+--2020-06-06 20:42:56--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main.jpg
+Connecting to themes.3rdwavemedia.com (themes.3rdwavemedia.com)|207.38.86.239|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59824 (58K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main.jpg’
+
+     0K .......... .......... .......... .......... .......... 85%  718K 0s
+    50K ........                                              100% 55.5M=0.07s
+
+2020-06-06 20:42:57 (837 KB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main.jpg’ saved [59824/59824]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-300x288.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8247 (8.1K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-300x288.jpg’
+
+     0K ........                                              100% 92.7M=0s
+
+2020-06-06 20:42:57 (92.7 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-300x288.jpg’ saved [8247/8247]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-768x738.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 19045 (19K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-768x738.jpg’
+
+     0K .......... ........                                   100% 87.4M=0s
+
+2020-06-06 20:42:57 (87.4 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-768x738.jpg’ saved [19045/19045]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-1024x984.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29048 (28K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-1024x984.jpg’
+
+     0K .......... .......... ........                        100%  121M=0s
+
+2020-06-06 20:42:57 (121 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/03/appify-promo-main-1024x984.jpg’ saved [29048/29048]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-1.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24969 (24K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-1.jpg’
+
+     0K .......... .......... ....                            100% 86.9M=0s
+
+2020-06-06 20:42:57 (86.9 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-1.jpg’ saved [24969/24969]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-1-300x230.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7532 (7.4K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-1-300x230.jpg’
+
+     0K .......                                               100%  818M=0s
+
+2020-06-06 20:42:57 (818 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-1-300x230.jpg’ saved [7532/7532]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-2.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21828 (21K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-2.jpg’
+
+     0K .......... .......... .                               100%  137M=0s
+
+2020-06-06 20:42:57 (137 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-2.jpg’ saved [21828/21828]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-2-300x230.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6662 (6.5K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-2-300x230.jpg’
+
+     0K ......                                                100%  978M=0s
+
+2020-06-06 20:42:57 (978 MB/s) - ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-2-300x230.jpg’ saved [6662/6662]
+
+--2020-06-06 20:42:57--  https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-3.jpg
+Reusing existing connection to themes.3rdwavemedia.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22549 (22K) [image/jpeg]
+Saving to: ‘themes.3rdwavemedia.com/wp-content/uploads/2019/02/bootstrap-admin-template-appify-dashboard-3.jpg’
+
+     0K .......... .......... ..
