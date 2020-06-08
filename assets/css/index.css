@@ -171,3 +171,7 @@
     width: 110px;
     height: 36px;
 }
+
+.active{
+    border-bottom: 3px solid white;
+}

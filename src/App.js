@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+  import './App.css';
 import Nav from './components/navbar.js';
 
 // css
@@ -29,10 +28,12 @@ class App extends Component {
       width: '61.8984px',
        left: '1218.38px',
     };
+
+    
     return (
-      <div>
+        
         <Nav/>
-      </div>          
+         
     );
   }
 }
