@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import {NavLink, BrowserRouter as Router} from 'react-router-dom';
+import {NavLink, BrowserRouter as Router, Route} from 'react-router-dom';
 import SocialIcons from './SocialIcons';
-
+import About from './About'
 
 class Nav extends Component {
   
