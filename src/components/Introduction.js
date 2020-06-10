@@ -17,8 +17,9 @@ class Introduction extends Component {
                         <div className="media-body text-center text-md-left">
                         <div className="lead">Hello, my name is</div>
                         <h2 className="mt-0 display-4 font-weight-bold">Chirag Jain</h2>
-                        <div className="bio mb-3"> I'm a Master's in Computer Science Student in ASU. I have keen interest Software Development and Predictive Analytics. 
-                        For me, life is all about constanly challenging yourself and learning new skills
+                        <div className="bio mb-3"> I'm a Master's in Computer Science Student in ASU graduating in May 2021. I have keen interest Software Development and Predictive Analytics. 
+                        I am looking for full-time oportunities in Software Development from May 2021
+                        
                         </div>
                         
                         </div>

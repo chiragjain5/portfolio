@@ -15,12 +15,12 @@ import './assets/css/index.css'
 // js
 
 // import './assets/js/analytics.js'
-// import './assets/js/all.js'
+import './assets/js/all.js'
+// import './assets/js/fbevents.js'
+
 // import './assets/js/jquery-3.4.1.min.js'
 
-// import './assets/js/fbevents.js'
 // import './assets/js/popper.min.js'
-// import './assets/js/bootstrap.min.js'
 // import './assets/js/flickity.pkgd.min.js'
 // import './assets/js/main.js'
 // import './assets/js/flickity-custom.js'
