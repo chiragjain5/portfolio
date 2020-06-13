@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import {NavLink, BrowserRouter as Router, Route} from 'react-router-dom';
+import {NavLink, BrowserRouter as Router, Route, withRouter} from 'react-router-dom';
 import SocialIcons from './SocialIcons';
 import About from './About'
 
 class Nav extends Component {
-  
+
     render() {
+      // console.log( this.props.location.pathname)
       return (
         <header className="header">
           
@@ -20,20 +21,18 @@ class Nav extends Component {
                   
                   <div className="collapse navbar-collapse text-uppercase text-center" id="navigation">
                     <ul className="navbar-nav ml-lg-auto">
-                      <Router>
                       <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active" to="/about">about</NavLink>
+                          <NavLink className="nav-link" activeClassName="active" exact to="/about">about</NavLink>
                         </li>
                         <li className="nav-item mr-lg-3">
                           <NavLink className="nav-link" activeClassName="active" to="/projects">Projects</NavLink>
                         </li>
                         <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active" to="/resume">Resume</NavLink>
+                          <NavLink className="nav-link" activeClassName="active"  to="/resume">Resume</NavLink>
                         </li>
                         <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active" to="/contact">Contact</NavLink>
+                          <NavLink className="nav-link" activeClassName="active"  to="/contact">Contact</NavLink>
                         </li>
-                      </Router>
                         
                  
                       
@@ -46,14 +45,12 @@ class Nav extends Component {
                 </nav>
               </div>
             </div>
-              <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js" crossorigin></script>
-              <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-  
+   
         </header>    
             
       );
     }
   }
   
-  export default Nav;
+  export default withRouter(Nav);
   

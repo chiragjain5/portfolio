@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {NavLink, BrowserRouter as Router, Route} from 'react-router-dom';
+import {NavLink, BrowserRouter as Router, Route, Redirect, Switch, withRouter, Link} from 'react-router-dom';
 import About from './components/About'
 
 import './App.css';
@@ -19,6 +19,7 @@ import Popper from 'popper.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 // import './assets/js/analytics.js'
 import './assets/js/all.js'
+import Introduction from './components/Introduction';
 // import './assets/js/fbevents.js'
 
 
@@ -41,14 +42,17 @@ class App extends Component {
 
     
     return (
-        <div>
+
           <Router>
             <Nav/>
-            <Route path="/" component={About}></Route>
-            {/* <Route path="/about" component={Nav}></Route> */}
-          </Router>
-        </div>
-         
+            <Switch>
+              <Redirect exact from = '/' to = '/about' />
+              <Route exact path="/projects" component={withRouter(Introduction)}/>
+              <Route exact path="/about" exact component={withRouter(About)}/>
+             
+            </Switch>
+        </Router>
+                 
     );
   }
 }
