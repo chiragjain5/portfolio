@@ -14,9 +14,13 @@ import './assets/css/index.css'
 
 // js
 
+import $ from 'jquery';
+import Popper from 'popper.js';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 // import './assets/js/analytics.js'
 import './assets/js/all.js'
 // import './assets/js/fbevents.js'
+
 
 // import './assets/js/jquery-3.4.1.min.js'
 

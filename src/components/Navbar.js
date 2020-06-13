@@ -18,7 +18,7 @@ class Nav extends Component {
                   <span className="navbar-toggler-icon"></span>
                   </button>
                   
-                  <div className="collapse navbar-collapse text-uppercase" id="navigation">
+                  <div className="collapse navbar-collapse text-uppercase text-center" id="navigation">
                     <ul className="navbar-nav ml-lg-auto">
                       <Router>
                       <li className="nav-item mr-lg-3">
