@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {NavLink, BrowserRouter as Router, Route, Redirect, Switch, withRouter, Link} from 'react-router-dom';
 import About from './components/About'
+import Projects from './components/Projects'
 
 import './App.css';
 import Nav from './components/Navbar.js';
@@ -20,6 +21,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 // import './assets/js/analytics.js'
 import './assets/js/all.js'
 import Introduction from './components/Introduction';
+import Resume from './components/Resume';
 // import './assets/js/fbevents.js'
 
 
@@ -47,8 +49,9 @@ class App extends Component {
             <Nav/>
             <Switch>
               <Redirect exact from = '/' to = '/about' />
-              <Route exact path="/projects" component={withRouter(Introduction)}/>
-              <Route exact path="/about" exact component={withRouter(About)}/>
+              <Route exact path="/about" exact component={About}/>
+              <Route exact path="/projects" component={Projects}/>
+              <Route exact path="/resume" component={Resume}/>
              
             </Switch>
         </Router>

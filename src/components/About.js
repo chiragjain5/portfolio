@@ -14,7 +14,7 @@ class About extends Component {
         super(props);
       }
     render() {
-        const skillData = [                                                            //Edit this to add more skills
+          const skillData = [                                                            //Edit this to add more skills
             {
               skillDomain: "Programming Langues",
               iconName: faCode,
@@ -45,8 +45,6 @@ class About extends Component {
         return (
         <div>
             <Introduction/>
-            
-
             <section className="skill-section section py-5">
                 <div className="container">
                     <h3 className="section-title font-weight-bold text-center mb-3">Skill Overview</h3>
