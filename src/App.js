@@ -47,7 +47,6 @@ class App extends Component {
 
           <Router>
             <Nav/>
-            <a>hello</a>
             <Switch>
               {/* <Redirect exact from = '/' to = '/about' /> */}
               <Route exact path="/" exact component={About}/>
