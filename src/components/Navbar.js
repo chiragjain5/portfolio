@@ -22,16 +22,16 @@ class Nav extends Component {
                   <div className="collapse navbar-collapse text-uppercase text-center" id="navigation">
                     <ul className="navbar-nav ml-lg-auto">
                       <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active" exact to="/about">about</NavLink>
+                          <NavLink className="nav-link" activeClassName="active" exact to="portfolio/about">about</NavLink>
                         </li>
                         <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active" to="/projects">Projects</NavLink>
+                          <NavLink className="nav-link" activeClassName="active" to="portfolio/projects">Projects</NavLink>
                         </li>
                         <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active"  to="/resume">Resume</NavLink>
+                          <NavLink className="nav-link" activeClassName="active"  to="portfolio/resume">Resume</NavLink>
                         </li>
                         <li className="nav-item mr-lg-3">
-                          <NavLink className="nav-link" activeClassName="active"  to="/contact">Contact</NavLink>
+                          <NavLink className="nav-link" activeClassName="active"  to="portfolio/contact">Contact</NavLink>
                         </li>
                         
                  
